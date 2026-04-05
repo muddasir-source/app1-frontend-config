@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/muddasir-source/app1-backend-config.git
+    repoURL: https://github.com/muddasir-source/app1-frontend-config.git
     targetRevision: HEAD
     path: frontend
   destination:
